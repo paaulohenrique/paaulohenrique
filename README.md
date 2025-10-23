@@ -52,6 +52,5 @@
   
 **"A jornada de mil milhas começa com um único passo"** 🚀
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=paaulohenrique.paaulohenrique)
-
+![Profile Views](https://komarev.com/ghpvc/?username=paaulohenrique&color=blue&style=flat-square&label=Profile+Views)
 </div>
